@@ -121,5 +121,13 @@
     "current_slug": "lincker-to-vultejus-cipher-letter-1672",
     "date_utc": "2026-10-06",
     "scope": "Document labels, description and navigation only. Repository identity/history and scientific identifiers remain preserved."
+  },
+  "community_workflow_update": {
+    "date_utc": "2026-10-06",
+    "previous_commit": "6c6ce25c856151f003cb2bb3698cc59674f35b24",
+    "scope": "Research participation links and workflow entry point only; retained scientific inputs and claim status unchanged. adapted_files hashes above record the initial publication snapshot.",
+    "navigation_file": "README.md",
+    "previous_sha256": "7a3ae5b4b546e47b55094481acd124641cf375f0f6a72f70fe2f0d65af524910",
+    "current_sha256": "3de4595ff6e2287d271b32436e4f33a69b658de67bf4c3d1607cf815bb70869f"
   }
 }
