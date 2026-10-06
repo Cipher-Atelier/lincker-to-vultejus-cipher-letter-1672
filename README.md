@@ -1,4 +1,4 @@
-# lincker-1672
+# Lincker’s cipher letter to Vultejus (May 1672)
 
 Two short sequences reconstructed using the surviving 1666 key. Existing historical glosses are not new plaintext; high-number word codes remain unresolved.
 
