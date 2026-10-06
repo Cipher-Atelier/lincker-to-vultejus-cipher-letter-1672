@@ -1,16 +1,40 @@
 # Lincker’s cipher letter to Vultejus (May 1672)
 
-Two short sequences reconstructed using the surviving 1666 key. Existing historical glosses are not new plaintext; high-number word codes remain unresolved.
+A cipher letter from Lincker to Vultejus, written in Hamburg in May 1672 and catalogued as HCP494. A related historical key from 1666 survives.
 
-Read the [research account](lincker-1672/README.md), [verification guide](verification/README.md), and [sources and limits](verification/TOPIC_SCOPE_INDEX.json).
+## What has been found?
 
-Run the bounded offline checks with Python 3.10 or later from this repository root:
+The surviving key supports two short sequences, with source corrections and unresolved word codes. The main-block literal is shown below. The available vocabulary does not contain the higher-number codes needed for a complete reading.
+
+A small example from the recorded result:
+
+```text
+disgustirtundertanin[634]
+```
+
+This is the literal output before deciding word boundaries or syntax. [634] stays an unresolved code; Holstein is not an established dictionary value for it.
+
+## Start reading
+
+1. [Read the plain-language guide](READING_GUIDE.md): the document, result, file meanings and one worked check. No programming is required.
+2. Open [Saved outputs for sequences A and B](verification/readings/VERIFIED_REPLAY_RESULTS.json) to inspect the saved text or test result itself.
+3. Read the [research account](lincker-1672/README.md) for historical context, methods, earlier work and unresolved questions.
+
+## How can I check it?
+
+Follow the worked example in [the reading guide](READING_GUIDE.md#check-one-example-by-hand). It connects a source record, a key or model assumption, and the saved output. For an independent source check, use the [original-source entry](https://crypto.hcportal.eu/dashboard/cryptograms/494); images are linked, not redistributed here.
+
+If you use Python, follow the [complete verification instructions](verification/README.md), including download/setup, expected results and troubleshooting. The command from this repository’s top-level folder is:
 
 ```sh
 python3 verification/check_all.py
 ```
 
-The checks reproduce only the documented public subset. Mapping coverage is not accuracy; successful replay does not establish a correct source reading or historical truth. Original and later corrected states remain separate.
+A successful run means the published files and declared calculation reproduce. It does not establish that every source sign or historical interpretation is correct.
+
+## Precise research scope
+
+Two short sequences reconstructed using the surviving 1666 key. Existing historical glosses are not new plaintext; high-number word codes remain unresolved.
 
 This is part of [Cipher-Atelier](https://github.com/Cipher-Atelier), founded by [Maxim Egorov](https://github.com/cayde-6). Explore the [research index](https://github.com/Cipher-Atelier/research-index), [contribution guide](https://github.com/Cipher-Atelier/.github/blob/main/CONTRIBUTING.md), and [step-by-step research workflow](https://github.com/Cipher-Atelier/research-index/blob/main/START_HERE.md).
 
