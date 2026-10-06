@@ -2,7 +2,7 @@
 
 Two short sequences reconstructed using the surviving 1666 key. Existing historical glosses are not new plaintext; high-number word codes remain unresolved.
 
-Read the [research account](lincker-1672/README.md), [topic navigation](lincker-1672/README.md), [verification guide](verification/README.md), and [sources and limits](verification/TOPIC_SCOPE_INDEX.json).
+Read the [research account](lincker-1672/README.md), [verification guide](verification/README.md), and [sources and limits](verification/TOPIC_SCOPE_INDEX.json).
 
 Run the bounded offline checks with Python 3.10 or later from this repository root:
 

@@ -129,5 +129,17 @@
     "navigation_file": "README.md",
     "previous_sha256": "7a3ae5b4b546e47b55094481acd124641cf375f0f6a72f70fe2f0d65af524910",
     "current_sha256": "3de4595ff6e2287d271b32436e4f33a69b658de67bf4c3d1607cf815bb70869f"
+  },
+  "editorial_navigation_update": {
+    "date_utc": "2026-10-06",
+    "previous_commit": "514c509b423ccc3595f57c65153e38796e0297b1",
+    "scope": "Remove one adjacent duplicate README navigation link. Research data, code, keys and outputs are unchanged. Initial retained_inputs and adapted_files hashes document original publication snapshots; the changes below document later editorial bytes.",
+    "files": [
+      {
+        "path": "README.md",
+        "previous_sha256": "3de4595ff6e2287d271b32436e4f33a69b658de67bf4c3d1607cf815bb70869f",
+        "current_sha256": "5318cf19d0090de0c8c5fc52eb7f16d86293736e61b36e2b3df03b746ea3aa73"
+      }
+    ]
   }
 }
