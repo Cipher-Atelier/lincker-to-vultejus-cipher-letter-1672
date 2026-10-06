@@ -1,0 +1,222 @@
+{
+  "A": {
+    "tokens": [
+      "FF",
+      "67",
+      "85",
+      "33",
+      "XX",
+      "SYL_ST",
+      "LL",
+      "113",
+      "WW",
+      "119",
+      "74",
+      "26",
+      "28",
+      "83",
+      "117",
+      "20",
+      "PP",
+      "37",
+      "104",
+      "634"
+    ],
+    "plaintext_without_editorial_wordspaces": "disgustirtundertanin[634]",
+    "alignment": [
+      {
+        "token": "FF",
+        "value": "d"
+      },
+      {
+        "token": "67",
+        "value": "i"
+      },
+      {
+        "token": "85",
+        "value": "s"
+      },
+      {
+        "token": "33",
+        "value": "g"
+      },
+      {
+        "token": "XX",
+        "value": "u"
+      },
+      {
+        "token": "SYL_ST",
+        "value": "st"
+      },
+      {
+        "token": "LL",
+        "value": "i"
+      },
+      {
+        "token": "113",
+        "value": "r"
+      },
+      {
+        "token": "WW",
+        "value": "t"
+      },
+      {
+        "token": "119",
+        "value": "u"
+      },
+      {
+        "token": "74",
+        "value": "n"
+      },
+      {
+        "token": "26",
+        "value": "d"
+      },
+      {
+        "token": "28",
+        "value": "e"
+      },
+      {
+        "token": "83",
+        "value": "r"
+      },
+      {
+        "token": "117",
+        "value": "t"
+      },
+      {
+        "token": "20",
+        "value": "a"
+      },
+      {
+        "token": "PP",
+        "value": "n"
+      },
+      {
+        "token": "37",
+        "value": "i"
+      },
+      {
+        "token": "104",
+        "value": "n"
+      },
+      {
+        "token": "634",
+        "value": "[634]"
+      }
+    ]
+  },
+  "B": {
+    "tokens": [
+      "678?",
+      "JJ?",
+      "76",
+      "SYL_TT",
+      "63",
+      "38",
+      "22",
+      "FF",
+      "20",
+      "75",
+      "20",
+      "SYL_LL",
+      "YY",
+      "66_OR_86",
+      "NN",
+      "30",
+      "32",
+      "110",
+      "SYL_AU",
+      "XX_OR_SYL_FF"
+    ],
+    "plaintext_without_editorial_wordspaces": "[678?]{g}ottgebdasallw{d/o}lablau{u/ff}",
+    "alignment": [
+      {
+        "token": "678?",
+        "value": "[678?]"
+      },
+      {
+        "token": "JJ?",
+        "value": "{g}"
+      },
+      {
+        "token": "76",
+        "value": "o"
+      },
+      {
+        "token": "SYL_TT",
+        "value": "tt"
+      },
+      {
+        "token": "63",
+        "value": "g"
+      },
+      {
+        "token": "38",
+        "value": "e"
+      },
+      {
+        "token": "22",
+        "value": "b"
+      },
+      {
+        "token": "FF",
+        "value": "d"
+      },
+      {
+        "token": "20",
+        "value": "a"
+      },
+      {
+        "token": "75",
+        "value": "s"
+      },
+      {
+        "token": "20",
+        "value": "a"
+      },
+      {
+        "token": "SYL_LL",
+        "value": "ll"
+      },
+      {
+        "token": "YY",
+        "value": "w"
+      },
+      {
+        "token": "66_OR_86",
+        "value": "{d/o}"
+      },
+      {
+        "token": "NN",
+        "value": "l"
+      },
+      {
+        "token": "30",
+        "value": "a"
+      },
+      {
+        "token": "32",
+        "value": "b"
+      },
+      {
+        "token": "110",
+        "value": "l"
+      },
+      {
+        "token": "SYL_AU",
+        "value": "au"
+      },
+      {
+        "token": "XX_OR_SYL_FF",
+        "value": "{u/ff}"
+      }
+    ]
+  },
+  "limits": [
+    "A and B already carry historical handwritten readings on the letter; this is a surviving-key reconstruction, not a first decipherment.",
+    "Key 255 is attributed to Secretary Lincker in 1666; letter is from 1672. Same alphabet family does not prove identical word-code vocabulary.",
+    "Key 255 word-code list ends at 407; letter contains 600–800 codes. 634 and other unglossed word codes remain unknown.",
+    "Never turn alternatives or invalid-looking literal output into fluent plaintext without a source-backed correction."
+  ]
+}

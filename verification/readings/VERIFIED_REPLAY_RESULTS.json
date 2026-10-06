@@ -1,0 +1,11 @@
+{
+  "lincker-1672": {
+    "status": "PASS",
+    "scope": "mechanical replay only",
+    "literal_outputs": {
+      "A": "disgustirtundertanin[634]",
+      "B": "[678?]{g}ottgebdasallw{d/o}lablau{u/ff}"
+    },
+    "limit": "Known surviving-key reconstruction; existing historical glosses and out-of-range word codes remain separate."
+  }
+}

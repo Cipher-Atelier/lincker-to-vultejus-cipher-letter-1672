@@ -1,0 +1,92 @@
+CURRENT CORRECTION 2026-10-02 12:34 UTC
+
+Main block group17 is PP, not bb/BB. It matches the same writer’s P in the clear word Proposition. Key PP=n. Revised literal output: disgustirtundertanin[634].
+Plausible editorial segmentation: disgustirt undertan in [634].
+634=Holstein remains a tentative reading of the marginal gloss, not a dictionary-proven mapping.
+
+Other original observations follow. Their old bb/BB interpretation is explicitly superseded by this correction:
+
+HCPortal 494, scan 0004: image-grounded independent inventory
+Sources inspected: 0004.jpg (1024 x 1553), 0004-original.jpg (2600 x 3944), with original-resolution crops. All coordinates below refer to the 1024 x 1553 version; multiply both axes by approximately 2.539 for the original. Coordinates are approximate token centers, not text-baseline segmentation. Brackets preserve uncertainty. No fluent reconstruction is asserted.
+
+CENTRAL CIPHER RUN
+At x220-900, y765-885. Main hand, after cleartext Totaliter:
+Totaliter FF. 67. 85. 33. XX. 60. LL.
+113. WW. 119. 74. 26. 28. 83. 117. 20. bb. 37.
+104. 634.
+
+Centers (x,y): FF(416,786); 67(502,786); 85(564,786); 33(620,783); XX(705,781); 60(783,780); LL(860,775);
+113(246,830); WW(330,824); 119(413,833); 74(486,827); 26(550,825); 28(609,827); 83(668,820); 117(731,822); 20(792,820); bb(848,811); 37(896,822);
+104(251,872); 634(340,863).
+All groups high confidence except 67 (medium-high; favors 7 over 9), 113 (medium-high; dark first two strokes), and bb (medium-high; preserve as doubled cursive letter rather than numeral 66). Dots after units are visible punctuation. XX and LL are doubled letter-like symbols, not normalized Roman numerals.
+
+Dark marginal gloss, x45-215, y762-858:
+disgustirt
+und ert[a?][r/n?]in
+[unresolved overwritten word]
+“disgustirt” is high confidence. “und” is high confidence; the following letters are uncertain. The third line cannot be confidently read. Its first stroke could begin v/f/h. The first line has a connector extending toward Totaliter/the start of the cipher. Thus this is not a wholly unannotated run. The margin is consistent with an attempt or partial decipherment; the image alone cannot establish how complete or correct it was. Do not describe the exact full plaintext as established.
+
+GLOSSED LOWER CIPHER RUN
+x220-925, y948-1018, after the cleartext phrase ending approximately “olim non erat ... insidiosi hostis”:
+678[?]: 99. 76. [loop glyph, possibly 9]. 63. 38. 22. FF. 20. 75. 20. I.
+yy. 66. NN. 30. 32. 110. 6. XX.
+
+Centers (x,y): 678(267,977); 99(410,976); 76(468,974); loop(520,971); 63(585,972); 38(637,967); 22(681,965); FF(744,963); 20(804,964); 75(850,960); 20(887,960); I(917,960);
+yy(247,1003); 66(303,1004); NN(383,1003); 30(445,1008); 32(486,1009); 110(531,1008); 6(568,1003); XX(623,1002).
+
+Confidence: 678 medium (first/last digit partly overwritten); 99 high; 76 high; loop deliberately unresolved; 63 medium-high (6 favored over8);38 high;22 high;FF high;20 high;75 medium-high;20 high;I medium-high; yy high as doubled cursive y-like symbol, NOT 44;66 medium-high, NOT confidently 99;NN high;30 high;32 medium;110 high;6 medium-high;XX high. The final I has a broad base/underline-like bottom stroke.
+
+Dark annotations, phrase-level diplomatic reading:
+Above678 at x235-298,y950: “sueco” [medium-high]
+Above99 at x380-442,y946: “got[t?]” [medium-high]
+Across x548-746,y938-955: “g e b d a s” [medium-high; b favored, not l, and the phrase “geb das” is plausible without needing “geld”]
+Across x852-919,y937-952: “[a/m?]nn” [low-medium; possible compressed “man”]
+Across x222-311,y977-995: “w o [l?]” [medium-high]
+Across x440-582,y976-995: “a b l au f” [medium]
+
+The gloss is compact running writing; letters are not reliably centered over individual cipher units. A substitution key cannot safely be derived by x alignment alone. The phrase-level reading supports something resembling “got ... geb das ... [man?] wol ... ablauf”, but a completed grammatical phrase would be conjectural.
+
+TOP-OF-PAGE NAMED CODEWORDS
+Approximate centers, code -> direct dark gloss:
+(578,264) 602 -> “dem Konig in Dennemarck” [code high; gloss medium-high]
+(607,296) 756[?] -> “Franckreich” [code medium; gloss high]
+(798,294) 768[?] -> no readable gloss; underline below group [code medium]
+(480,344) 607 -> “Dennemarck” [high]
+(458,379) 625 -> underlined, no interlinear gloss [high]
+(661,412) 229 -> “Ratz[?]” or similar abbreviated proper name [code high; gloss low-medium]
+(843,445) [65?]7 -> “Chur Brandenb[?]” [code low-medium due ink overlap; gloss medium]
+
+OTHER LOWER CODEWORDS
+(737,862) 601 -> “Dennemarck” [high]
+(251,1131) 429[?] and (331,1131) 641 -> joint gloss “Herzog von Plön” [code 429 medium,641 high; gloss medium-high]
+(495,1158) 303 -> “allianc[e?]” [code high; gloss medium]
+(651,1160) 447 -> dark gloss crossed out/overwritten; do not decode it [code high]
+(737,1159) 662[?] -> “Kayser” [code medium; gloss high]
+(866,1157) 834 -> “Rex Daniae” [code high; gloss high]
+
+DATE AND SIGN-OFF
+0004 bottom-left x40-232,y1395-1480 reads “Hamburg / den 4. May / ao 1672” (May4 highly likely; small mark around day uncertain). The separate docket on0002, x274-491,y85-151, appears “1672 Mai 4/14”, useful independent date evidence. Do not silently replace the visible4 with14.
+0004 bottom-right x512-861,y1396-1480 is a German deferential sign-off, with “... gehorsamster / ... Diener” readable, followed by a flourish/initial-like mark. I cannot securely identify a personal name from these pixels.
+
+FOLLOW-UP REPEATED-TOKEN CHECK
+The two 20 groups in the lower first line (after FF and after75) were compared side by side with the first run's20 and with22, at original resolution. Both have the same 2+0 structure. There is no image support for substituting70 or letter-like eo for one occurrence. See compare20b.png. Coordinate values in this inventory should be treated as approximate search locations with about +/-20 pixels tolerance; source crops are authoritative for glyph boundaries.
+
+KEY255 REASSESSMENT (later evidence, supersedes relevant numeric normalizations above)
+The public key sheet supplied at priorart/key255_0013.jpg contains an alphabet and syllable-sign table. Direct graphical comparison was made; see compare_syllables.png.
+- Main-run alleged60: REVISE to [st sign], high confidence. The key has precisely the same arch connecting two inward-curled ends. It is not ordinary number60.
+- Main-run LL: agrees with key's doubledLL for i. Together with the other supplied alphabet values, the beginning can be securely read “disgustirt und...”.
+- Lower-loop after76: REVISE to [tt sign], high confidence. The key has the same upward-facing double-loop curve.
+- Lower terminalI of first line: REVISE to [ll sign], medium-high confidence. The circle-above-stem and flat base agree with the key. Combined with preceding20=a, it supports “all”, not a forced “mann”.
+- Lower alleged99 before76: JJ for g is plausible and consistent with the visible “got” gloss; its normalized numeric reading should no longer be treated as secure.
+- Lower alleged66:86 for o is plausible; the first digit is overwritten. Retain [66/86] until clearer confirmation.
+- Lower alleged6 before the lastXX pair: an au syllable sign is compatible with the key, medium confidence. Its loop/upward extension is partly covered by the dark gloss.
+- Final lowerXX-like pair: graphic identity remains unresolved. Side-by-side, it looks nearly identical to first-blockXX (key value u). Key's ff syllable sign is a more connected crossed-W form. A reading ff is contextually plausible, but I cannot claim the pixels alone distinguish it securely.
+
+Conservative key-supported phrase candidate for the second block: “gott geb das all wol ablau[f(f)?]”. This remains a candidate; the final sign and overwritten first digit in86 need caution. The main-run tail remains unsolved under the supplied alphabet, and must not be silently normalized into a fluent expression.
+
+EXACT MAIN-RUN KEY APPLICATION
+Reproducible sidecars:0004-main-key255.csv and0004-main-key255.json.
+FF=d,67=i,85=s,33=g,XX=u,[st sign]=st,LL=i,113=r,WW=t,119=u,74=n,26=d,28=e,83=r,117=t,20=a,bb=z,37=i,104=n,634=unknown.
+Literal concatenation: disgustirtundertazin[634]
+Editorially spaced only: disgustirt und ertazin[634]
+A focused image recheck did not justify changing117 orbb to different tokens. The margin tail may be rendered “und ert[a][r/n/z?]in”; its ambiguous middle character could be the annotator'sz, but that is not independently secure. No fluent German completion is asserted.

@@ -1,0 +1,42 @@
+{
+  "date_utc": "2026-10-02T12:34:00Z",
+  "corrected_token_index": 17,
+  "old_identification": "bb/BB",
+  "old_key_value": "z",
+  "new_identification": "PP",
+  "new_key_value": "n",
+  "confidence": "medium-high",
+  "image_evidence": {
+    "source": "letter_0004.jpg",
+    "source_dimensions": [
+      2600,
+      3944
+    ],
+    "same_hand_clear_word": "Proposition",
+    "clear_word_crop_xyxy": [
+      460,
+      1310,
+      1190,
+      1600
+    ],
+    "cipher_comparison_crop_xyxy": [
+      1710,
+      1990,
+      2380,
+      2170
+    ],
+    "matched_features": [
+      "tall rightward loop",
+      "slanted principal stroke",
+      "small closed foot loop"
+    ],
+    "independent_visual_check": "confirmed"
+  },
+  "revised_literal_output": "disgustirtundertanin[634]",
+  "plausible_editorial_segmentation": "disgustirt undertan in [634]",
+  "limits": [
+    "Historical spelling, syntax and grammatical number of undertan remain to be interpreted.",
+    "The marginal word may be holstein, with low-to-medium confidence; do not treat 634=Holstein as a recovered dictionary entry.",
+    "Historical marginal/interlinear readings already exist; no world-first or complete decipherment claim."
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "status": "Public export provenance record; file hashes identify these retained or explicitly redacted research records.",
+  "files": [
+    {
+      "path": "evidence/Lincker_1672_partial_key_audit/partial_key_check.json",
+      "topic": "lincker-1672",
+      "role": "Frozen transcript/key/output/occurrence apparatus",
+      "sha256": "0aa2b69d285062f9337baa7536fd79662b40ed1556f1489cc6c2a1611a6ed904",
+      "source_sha256": "0aa2b69d285062f9337baa7536fd79662b40ed1556f1489cc6c2a1611a6ed904",
+      "transform": "verbatim retained data",
+      "omitted_path_fields": [],
+      "publication_assessment": "Candidate factual transcription/key/position data or project-authored edition; cited archival/key sources remain credited. No archival pixels, model corpora or upstream program included.",
+      "repository_licence": "No blanket licence is asserted; source-specific rights and attribution apply."
+    },
+    {
+      "path": "evidence/Lincker_1672_partial_key_audit/main_key_alignment.csv",
+      "topic": "lincker-1672",
+      "role": "Frozen transcript/key/output/occurrence apparatus",
+      "sha256": "926bcb7c6e1fc26c5fcdd3100879121ac63a0b0a928afe89e4e927531f7bebf3",
+      "source_sha256": "926bcb7c6e1fc26c5fcdd3100879121ac63a0b0a928afe89e4e927531f7bebf3",
+      "transform": "verbatim retained data",
+      "omitted_path_fields": [],
+      "publication_assessment": "Candidate factual transcription/key/position data or project-authored edition; cited archival/key sources remain credited. No archival pixels, model corpora or upstream program included.",
+      "repository_licence": "No blanket licence is asserted; source-specific rights and attribution apply."
+    },
+    {
+      "path": "evidence/Lincker_1672_partial_key_audit/diplomatic_inventory.txt",
+      "topic": "lincker-1672",
+      "role": "Frozen transcript/key/output/occurrence apparatus",
+      "sha256": "49577f673bf420662f23ba7fb44c98c40f6e36dd814656b602aca3ed92831c2b",
+      "source_sha256": "49577f673bf420662f23ba7fb44c98c40f6e36dd814656b602aca3ed92831c2b",
+      "transform": "verbatim retained data",
+      "omitted_path_fields": [],
+      "publication_assessment": "Candidate factual transcription/key/position data or project-authored edition; cited archival/key sources remain credited. No archival pixels, model corpora or upstream program included.",
+      "repository_licence": "No blanket licence is asserted; source-specific rights and attribution apply."
+    },
+    {
+      "path": "evidence/Lincker_1672_partial_key_audit/initial_diplomatic_inventory_superseded.txt",
+      "topic": "lincker-1672",
+      "role": "Frozen transcript/key/output/occurrence apparatus",
+      "sha256": "bb84f6e64527cc6bc0724873bf4b65b3551af8395475ac5d07033cc90e8322f4",
+      "source_sha256": "bb84f6e64527cc6bc0724873bf4b65b3551af8395475ac5d07033cc90e8322f4",
+      "transform": "verbatim retained data",
+      "omitted_path_fields": [],
+      "publication_assessment": "Candidate factual transcription/key/position data or project-authored edition; cited archival/key sources remain credited. No archival pixels, model corpora or upstream program included.",
+      "repository_licence": "No blanket licence is asserted; source-specific rights and attribution apply."
+    },
+    {
+      "path": "evidence/Lincker_1672_partial_key_audit/correction_2026-10-02.json",
+      "topic": "lincker-1672",
+      "role": "Frozen transcript/key/output/occurrence apparatus",
+      "sha256": "45844b1a46cdfe9974fc188b3d9a0715b44ce9d71fc31d4fa7762916c1590023",
+      "source_sha256": "45844b1a46cdfe9974fc188b3d9a0715b44ce9d71fc31d4fa7762916c1590023",
+      "transform": "verbatim retained data",
+      "omitted_path_fields": [],
+      "publication_assessment": "Candidate factual transcription/key/position data or project-authored edition; cited archival/key sources remain credited. No archival pixels, model corpora or upstream program included.",
+      "repository_licence": "No blanket licence is asserted; source-specific rights and attribution apply."
+    }
+  ],
+  "new_code": [
+    "replay.py"
+  ],
+  "excluded": [
+    "All manuscript images and rendered crops",
+    "All PDF/DOCX/old raw reports and private checkpoint files",
+    "All raw corpora and binary language models",
+    "All prior code from third-party repositories",
+    "Private Library identifiers and absolute working paths",
+    "Historical full-search runs and missing alphabet.json reconstruction"
+  ],
+  "rights_notes": [
+    "Source links do not license images; coordinate-only reproduction is used.",
+    "Project-authored code/data does not establish ownership or sublicensing of third-party archives. Coordinator should add appropriate notices, not invent a repository-wide licence."
+  ],
+  "adapted_replay_source_sha256": "de40dfdccf8d3179bd83ab878a6cddd9d3bb3213f4b08285946befbce0640f2c"
+}
