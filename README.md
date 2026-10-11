@@ -2,17 +2,20 @@
 
 A cipher letter from Lincker to Vultejus, written in Hamburg in May 1672 and catalogued as HCP494. A related historical key from 1666 survives.
 
-## What has been found?
+## Current result — 11 October 2026
 
-The surviving key supports two short sequences, with source corrections and unresolved word codes. The main-block literal is shown below. The available vocabulary does not contain the higher-number codes needed for a complete reading.
+This is a partial application of surviving 1666 key 255 to two short recorded sequences. Sequence A gives `disgustirtundertanin[634]`; sequence B gives `[678?]{g}ottgebdasallw{d/o}lablau{u/ff}`. Word division is editorial. `[634]` is an unknown word code, braces preserve alternatives or tentative identification, and the possible marginal “Holstein” does not establish `634 = Holstein`.
 
-A small example from the recorded result:
+| Evidence layer | Open this |
+| --- | --- |
+| Original / surviving key | [Letter](https://arcinsys.hessen.de/arcinsys/showArchivalDescriptionDetails.action?archivalDescriptionId=3352629) · [key 255](https://crypto.hcportal.eu/dashboard/cipher-keys/255) |
+| Current signs / key application | [Main alignment](verification/readings/evidence/Lincker_1672_partial_key_audit/main_key_alignment.csv) · [token application](verification/readings/evidence/Lincker_1672_partial_key_audit/partial_key_check.json) |
+| Literal | [Saved outputs](verification/readings/VERIFIED_REPLAY_RESULTS.json) |
+| Interpretation / correction history | [Research account](lincker-1672/README.md) · [2 October correction](verification/readings/evidence/Lincker_1672_partial_key_audit/correction_2026-10-02.json) |
 
-```text
-disgustirtundertanin[634]
-```
+`FF → d`, `67 → i`, `85 → s` gives `dis`. Group 17 is now `PP → n`; the [diplomatic inventory](verification/readings/evidence/Lincker_1672_partial_key_audit/diplomatic_inventory.txt) preserves superseded `BB → z` observations below its correction notice. Start with the current alignment and [manual check](READING_GUIDE.md#check-one-example-by-hand).
 
-This is the literal output before deciding word boundaries or syntax. [634] stays an unresolved code; Holstein is not an established dictionary value for it.
+**Unresolved / missing:** the available vocabulary ends at 407, while the letter uses 600–800 codes. A matching supplement and better source readings are needed; the bounded neighboring-key search does not prove no supplement exists. No complete translation is included. The manuscript’s 4 May, endorsement’s 4/14 May and portal’s conflicting 3 May date remain distinct evidence.
 
 ## Start reading
 
