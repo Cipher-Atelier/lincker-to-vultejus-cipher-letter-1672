@@ -15,7 +15,7 @@
         "https://crypto.hcportal.eu/dashboard/cipher-keys/255",
         "https://arcinsys.hessen.de/arcinsys/showArchivalDescriptionDetails.action?archivalDescriptionId=1472074"
       ],
-      "minimum_verification_scope": "diplomatic_inventory.txt plus superseded first inventory, main_key_alignment.csv, correction_2026-10-02.json, partial_key_check.json, verify_partial_key.py and HC255/HC494 source locators.",
+      "minimum_verification_scope": "diplomatic_inventory.txt plus superseded first inventory, main_key_alignment.csv, correction_2026-10-02.json, partial_key_check.json, check_all.py (repository root: python3 verification/check_all.py; dispatches readings/replay.py) and HC255/HC494 source locators.",
       "public_release_gap": "Word-code dictionary ends at 407 while source uses 600–800 codes. Existing historical glosses are not new plaintext.",
       "verification_entry": "readings/README.md",
       "original_published_page": "https://github.com/cayde-6/historical-cipher-research/blob/24a7ae8f3e88664f3f1b472082f80259be641f98/lincker-1672/README.md"

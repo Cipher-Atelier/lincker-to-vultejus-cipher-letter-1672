@@ -163,5 +163,27 @@
         "current_sha256": "49d372e354e14f4cf2883a449c22cee21f8ad6bf407a7b01c272511dc535f9f9"
       }
     ]
+  },
+  "reader_documentation_refresh_20261011": {
+    "date_utc": "2026-10-11",
+    "previous_commit": "3aac5d0423894b7c77e775f5f82985da320dc6eb",
+    "scope": "Reader status, evidence navigation, manual examples and reproduction limits only. Frozen research data, keys, literals, expected outputs, code, credits and source rights are unchanged. Earlier provenance inventories remain historical publication snapshots. AI assistance: Codex edited documentation and checked saved records; no independent manuscript-pixel adjudication.",
+    "files": [
+      {
+        "path": "READING_GUIDE.md",
+        "previous_sha256": "be0f8333fa982dd903a90fa8e1a71669e0a56f4ce7b627a56427bb65fdbc1873",
+        "current_sha256": "70b1dfa40a32a0fbc0f3eda26412dd68f40594a94a89cb5b393c388fb92f6d8a"
+      },
+      {
+        "path": "README.md",
+        "previous_sha256": "046b17652190fdca690f873359c478c38288e7362d8327d5fc5945c946740a11",
+        "current_sha256": "4bb8f8e9d905b51523257b3fbf084701eab2a4ac3909ccb5becede55935879a5"
+      },
+      {
+        "path": "verification/TOPIC_SCOPE_INDEX.json",
+        "previous_sha256": "3ffbae626de6cd456ff755a3ad04c5a414cdcf65fdeac8a591a09f1f06efe44e",
+        "current_sha256": "efad58c0d11620fec89b2643e2b6399aa68c78c4cf7586761616f179cefa9df6"
+      }
+    ]
   }
 }

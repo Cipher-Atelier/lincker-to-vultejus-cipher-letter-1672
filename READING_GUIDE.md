@@ -39,6 +39,8 @@ A full translation would need matching missing vocabulary and better source read
 2. The first three outputs give `dis`. Concatenating the complete table gives `disgustirtundertanin[634]`, the [saved sequence-A output](verification/readings/VERIFIED_REPLAY_RESULTS.json).
 3. Compare the signs with the [letter source](https://arcinsys.hessen.de/arcinsys/showArchivalDescriptionDetails.action?archivalDescriptionId=3352629), then consult the [surviving alphabet sheet](https://digitalisate-he.arcinsys.de/hstam/4_d/1234/hstam_4_d_nr_1234_0013.jpg). Sequence 17 was corrected from a BB-like reading to `PP`; the record explains its comparison with the same writer’s clear word *Proposition*.
 
+**Correction history:** the [2 October record](verification/readings/evidence/Lincker_1672_partial_key_audit/correction_2026-10-02.json) changes `BB → z` to `PP → n` at group 17. The [diplomatic inventory](verification/readings/evidence/Lincker_1672_partial_key_audit/diplomatic_inventory.txt) retains older observations below its notice; those `BB/z` passages are superseded. Use the current alignment for the literal.
+
 The key’s available vocabulary ends at 407; the letter contains word codes in the 600–800 range. The alphabet agreement does not supply those missing words. The letter already carries historical marginal/interlinear readings; reproducing them is not a first decipherment of unannotated text.
 
 ## Choose the check you want
